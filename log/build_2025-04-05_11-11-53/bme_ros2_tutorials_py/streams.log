@@ -1,0 +1,24 @@
+[1.127s] Invoking command in '/home/balint/ros2_ws/src/bme_ros2_tutorials_py': PYTHONPATH=/home/balint/ros2_ws/build/bme_ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bme_ros2_tutorials_py build --build-base /home/balint/ros2_ws/build/bme_ros2_tutorials_py/build install --record /home/balint/ros2_ws/build/bme_ros2_tutorials_py/install.log --single-version-externally-managed install_data
+[1.369s] running egg_info
+[1.386s] writing ../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/PKG-INFO
+[1.387s] writing dependency_links to ../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/dependency_links.txt
+[1.387s] writing entry points to ../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/entry_points.txt
+[1.387s] writing requirements to ../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/requires.txt
+[1.387s] writing top-level names to ../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/top_level.txt
+[1.423s] reading manifest file '../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/SOURCES.txt'
+[1.424s] writing manifest file '../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info/SOURCES.txt'
+[1.424s] running build
+[1.425s] running build_py
+[1.425s] copying bme_ros2_tutorials_py/hello_word.py -> /home/balint/ros2_ws/build/bme_ros2_tutorials_py/build/lib/bme_ros2_tutorials_py
+[1.426s] running install
+[1.432s] running install_lib
+[1.451s] copying /home/balint/ros2_ws/build/bme_ros2_tutorials_py/build/lib/bme_ros2_tutorials_py/hello_word.py -> /home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py
+[1.453s] byte-compiling /home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py/hello_word.py to hello_word.cpython-312.pyc
+[1.453s] running install_data
+[1.454s] running install_egg_info
+[1.474s] removing '/home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py-0.0.0-py3.12.egg-info' (and everything under it)
+[1.474s] Copying ../../build/bme_ros2_tutorials_py/bme_ros2_tutorials_py.egg-info to /home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages/bme_ros2_tutorials_py-0.0.0-py3.12.egg-info
+[1.476s] running install_scripts
+[1.590s] Installing py_hello_world script to /home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/bme_ros2_tutorials_py
+[1.590s] writing list of installed files to '/home/balint/ros2_ws/build/bme_ros2_tutorials_py/install.log'
+[1.637s] Invoked command in '/home/balint/ros2_ws/src/bme_ros2_tutorials_py' returned '0': PYTHONPATH=/home/balint/ros2_ws/build/bme_ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/balint/ros2_ws/install/bme_ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bme_ros2_tutorials_py build --build-base /home/balint/ros2_ws/build/bme_ros2_tutorials_py/build install --record /home/balint/ros2_ws/build/bme_ros2_tutorials_py/install.log --single-version-externally-managed install_data

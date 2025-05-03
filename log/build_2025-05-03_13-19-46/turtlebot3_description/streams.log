@@ -1,0 +1,67 @@
+[0.055s] Invoking command in '/home/balint/ros2_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake /home/balint/ros2_ws/turtlebot3/turtlebot3_description -DCMAKE_INSTALL_PREFIX=/home/balint/ros2_ws/install/turtlebot3_description
+[0.551s] -- The C compiler identification is GNU 13.3.0
+[1.613s] -- The CXX compiler identification is GNU 13.3.0
+[2.660s] -- Detecting C compiler ABI info
+[3.120s] -- Detecting C compiler ABI info - done
+[3.147s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.148s] -- Detecting C compile features
+[3.155s] -- Detecting C compile features - done
+[3.315s] -- Detecting CXX compiler ABI info
+[3.728s] -- Detecting CXX compiler ABI info - done
+[3.754s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.754s] -- Detecting CXX compile features
+[3.754s] -- Detecting CXX compile features - done
+[3.799s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[4.174s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[4.625s] -- Configuring done (4.5s)
+[4.632s] -- Generating done (0.0s)
+[4.636s] -- Build files have been written to: /home/balint/ros2_ws/build/turtlebot3_description
+[4.645s] Invoked command in '/home/balint/ros2_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake /home/balint/ros2_ws/turtlebot3/turtlebot3_description -DCMAKE_INSTALL_PREFIX=/home/balint/ros2_ws/install/turtlebot3_description
+[4.652s] Invoking command in '/home/balint/ros2_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --build /home/balint/ros2_ws/build/turtlebot3_description -- -j6 -l6
+[4.712s] Invoked command in '/home/balint/ros2_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --build /home/balint/ros2_ws/build/turtlebot3_description -- -j6 -l6
+[4.727s] Invoking command in '/home/balint/ros2_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --install /home/balint/ros2_ws/build/turtlebot3_description
+[4.741s] -- Install configuration: ""
+[4.741s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/launch
+[4.743s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/launch/model.launch.py
+[4.744s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/rviz
+[4.748s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/rviz/model.rviz
+[4.749s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf
+[4.749s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/waffle_pi.urdf.xacro
+[4.750s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/burger_camera.urdf.xacro
+[4.750s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/burger.urdf.xacro
+[4.756s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_burger.urdf.xacro
+[4.757s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/urdf/turtlebot3_waffle_pi.urdf.xacro
+[4.758s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/gazebo
+[4.759s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/gazebo/burger.gazebo.xacro
+[4.760s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/gazebo/waffle_pi.gazebo.xacro
+[4.761s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/gazebo/materials.xacro
+[4.762s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes
+[4.764s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/burger
+[4.764s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/burger/base.stl
+[4.799s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/burger/right_tire.stl
+[4.803s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/burger/left_tire.stl
+[4.811s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/burger/ladar.stl
+[4.817s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/waffle_pi
+[4.817s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/waffle_pi/base.stl
+[4.838s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/waffle_pi/right_tire.stl
+[4.845s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/waffle_pi/left_tire.stl
+[4.854s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/meshes/waffle_pi/ladar.stl
+[4.855s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/ros2_control
+[4.855s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/ros2_control/turtlebot3_system.ros2_control.xacro
+[4.857s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/turtlebot3_description.dsv
+[4.862s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/ament_index/resource_index/package_run_dependencies/turtlebot3_description
+[4.863s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/ament_index/resource_index/parent_prefix_path/turtlebot3_description
+[4.863s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/ament_prefix_path.sh
+[4.864s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/ament_prefix_path.dsv
+[4.866s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/path.sh
+[4.867s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/environment/path.dsv
+[4.867s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.bash
+[4.867s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.sh
+[4.868s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.zsh
+[4.869s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/local_setup.dsv
+[4.869s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/package.dsv
+[4.869s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/ament_index/resource_index/packages/turtlebot3_description
+[4.870s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig.cmake
+[4.870s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig-version.cmake
+[4.871s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_description/share/turtlebot3_description/package.xml
+[4.889s] Invoked command in '/home/balint/ros2_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --install /home/balint/ros2_ws/build/turtlebot3_description

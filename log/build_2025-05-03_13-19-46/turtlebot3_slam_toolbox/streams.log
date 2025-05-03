@@ -1,0 +1,45 @@
+[0.020s] Invoking command in '/home/balint/ros2_ws/build/turtlebot3_slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake /home/balint/ros2_ws/turtlebot3/turtlebot3_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/balint/ros2_ws/install/turtlebot3_slam_toolbox
+[0.244s] -- The C compiler identification is GNU 13.3.0
+[1.311s] -- The CXX compiler identification is GNU 13.3.0
+[2.132s] -- Detecting C compiler ABI info
+[2.687s] -- Detecting C compiler ABI info - done
+[2.688s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.689s] -- Detecting C compile features
+[2.689s] -- Detecting C compile features - done
+[2.792s] -- Detecting CXX compiler ABI info
+[3.166s] -- Detecting CXX compiler ABI info - done
+[3.172s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.172s] -- Detecting CXX compile features
+[3.173s] -- Detecting CXX compile features - done
+[3.178s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[3.415s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.708s] -- Configuring done (3.7s)
+[3.713s] -- Generating done (0.0s)
+[3.715s] -- Build files have been written to: /home/balint/ros2_ws/build/turtlebot3_slam_toolbox
+[3.721s] Invoked command in '/home/balint/ros2_ws/build/turtlebot3_slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake /home/balint/ros2_ws/turtlebot3/turtlebot3_slam_toolbox -DCMAKE_INSTALL_PREFIX=/home/balint/ros2_ws/install/turtlebot3_slam_toolbox
+[3.722s] Invoking command in '/home/balint/ros2_ws/build/turtlebot3_slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --build /home/balint/ros2_ws/build/turtlebot3_slam_toolbox -- -j6 -l6
+[3.769s] Invoked command in '/home/balint/ros2_ws/build/turtlebot3_slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --build /home/balint/ros2_ws/build/turtlebot3_slam_toolbox -- -j6 -l6
+[3.769s] Invoking command in '/home/balint/ros2_ws/build/turtlebot3_slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --install /home/balint/ros2_ws/build/turtlebot3_slam_toolbox
+[3.779s] -- Install configuration: ""
+[3.779s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/config
+[3.781s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/config/slam_toolbox_mapping.yaml
+[3.791s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/launch
+[3.791s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/launch/slam_toolbox.launch.py
+[3.794s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/rviz
+[3.795s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/rviz/slam_toolbox.rviz
+[3.796s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/package_run_dependencies/turtlebot3_slam_toolbox
+[3.796s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/parent_prefix_path/turtlebot3_slam_toolbox
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/ament_prefix_path.sh
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/ament_prefix_path.dsv
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/path.sh
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/environment/path.dsv
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.bash
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.sh
+[3.797s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.zsh
+[3.798s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/local_setup.dsv
+[3.798s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/package.dsv
+[3.798s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/ament_index/resource_index/packages/turtlebot3_slam_toolbox
+[3.798s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/cmake/turtlebot3_slam_toolboxConfig.cmake
+[3.799s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/cmake/turtlebot3_slam_toolboxConfig-version.cmake
+[3.799s] -- Installing: /home/balint/ros2_ws/install/turtlebot3_slam_toolbox/share/turtlebot3_slam_toolbox/package.xml
+[3.815s] Invoked command in '/home/balint/ros2_ws/build/turtlebot3_slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/balint/ros2_ws/install/bme_ros2_tutorials_py:/opt/ros/jazzy /usr/bin/cmake --install /home/balint/ros2_ws/build/turtlebot3_slam_toolbox

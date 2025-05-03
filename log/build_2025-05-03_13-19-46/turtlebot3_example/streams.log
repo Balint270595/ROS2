@@ -1,0 +1,54 @@
+[1.329s] Invoking command in '/home/balint/ros2_ws/turtlebot3/turtlebot3_example': AMENT_PREFIX_PATH=/home/balint/ros2_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/balint/ros2_ws/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/balint/ros2_ws/install/turtlebot3_msgs/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib:/usr/lib/cuda/include:/usr/lib/cuda/lib64 PYTHONPATH=/home/balint/ros2_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages:/home/balint/ros2_ws/install/turtlebot3_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_example build --build-base /home/balint/ros2_ws/build/turtlebot3_example/build install --record /home/balint/ros2_ws/build/turtlebot3_example/install.log --single-version-externally-managed install_data
+[1.689s] running egg_info
+[1.689s] creating ../../build/turtlebot3_example/turtlebot3_example.egg-info
+[1.714s] writing ../../build/turtlebot3_example/turtlebot3_example.egg-info/PKG-INFO
+[1.715s] writing dependency_links to ../../build/turtlebot3_example/turtlebot3_example.egg-info/dependency_links.txt
+[1.715s] writing entry points to ../../build/turtlebot3_example/turtlebot3_example.egg-info/entry_points.txt
+[1.716s] writing requirements to ../../build/turtlebot3_example/turtlebot3_example.egg-info/requires.txt
+[1.716s] writing top-level names to ../../build/turtlebot3_example/turtlebot3_example.egg-info/top_level.txt
+[1.717s] writing manifest file '../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[1.773s] reading manifest file '../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[1.774s] writing manifest file '../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[1.774s] running build
+[1.775s] running build_py
+[1.775s] creating /home/balint/ros2_ws/build/turtlebot3_example/build
+[1.776s] creating /home/balint/ros2_ws/build/turtlebot3_example/build/lib
+[1.776s] creating /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example
+[1.776s] copying turtlebot3_example/__init__.py -> /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example
+[1.776s] creating /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_position_control
+[1.777s] copying turtlebot3_example/turtlebot3_position_control/__init__.py -> /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_position_control
+[1.777s] copying turtlebot3_example/turtlebot3_position_control/turtlebot3_position_control_pointop_key.py -> /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_position_control
+[1.778s] creating /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_obstacle_detection
+[1.779s] copying turtlebot3_example/turtlebot3_obstacle_detection/__init__.py -> /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_obstacle_detection
+[1.779s] copying turtlebot3_example/turtlebot3_obstacle_detection/turtlebot3_obstacle_detection.py -> /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_obstacle_detection
+[1.780s] running install
+[1.789s] running install_lib
+[1.817s] creating /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example
+[1.817s] copying /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/__init__.py -> /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example
+[1.817s] creating /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_position_control
+[1.818s] copying /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_position_control/__init__.py -> /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_position_control
+[1.818s] copying /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_position_control/turtlebot3_position_control_pointop_key.py -> /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_position_control
+[1.818s] creating /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_obstacle_detection
+[1.819s] copying /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_obstacle_detection/__init__.py -> /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_obstacle_detection
+[1.819s] copying /home/balint/ros2_ws/build/turtlebot3_example/build/lib/turtlebot3_example/turtlebot3_obstacle_detection/turtlebot3_obstacle_detection.py -> /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_obstacle_detection
+[1.820s] byte-compiling /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/__init__.py to __init__.cpython-312.pyc
+[1.821s] byte-compiling /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_position_control/__init__.py to __init__.cpython-312.pyc
+[1.822s] byte-compiling /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_position_control/turtlebot3_position_control_pointop_key.py to turtlebot3_position_control_pointop_key.cpython-312.pyc
+[1.824s] byte-compiling /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_obstacle_detection/__init__.py to __init__.cpython-312.pyc
+[1.825s] byte-compiling /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example/turtlebot3_obstacle_detection/turtlebot3_obstacle_detection.py to turtlebot3_obstacle_detection.cpython-312.pyc
+[1.826s] running install_data
+[1.826s] creating /home/balint/ros2_ws/install/turtlebot3_example/share/ament_index
+[1.826s] creating /home/balint/ros2_ws/install/turtlebot3_example/share/ament_index/resource_index
+[1.827s] creating /home/balint/ros2_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.828s] copying resource/turtlebot3_example -> /home/balint/ros2_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.829s] copying package.xml -> /home/balint/ros2_ws/install/turtlebot3_example/share/turtlebot3_example
+[1.829s] running install_egg_info
+[1.858s] Copying ../../build/turtlebot3_example/turtlebot3_example.egg-info to /home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages/turtlebot3_example-2.1.5-py3.12.egg-info
+[1.860s] running install_scripts
+[2.032s] Installing turtlebot3_interactive_marker script to /home/balint/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[2.033s] Installing turtlebot3_obstacle_detection script to /home/balint/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[2.033s] Installing turtlebot3_patrol_client script to /home/balint/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[2.033s] Installing turtlebot3_patrol_server script to /home/balint/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[2.034s] Installing turtlebot3_position_control_pointop_key script to /home/balint/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[2.035s] writing list of installed files to '/home/balint/ros2_ws/build/turtlebot3_example/install.log'
+[2.095s] Invoked command in '/home/balint/ros2_ws/turtlebot3/turtlebot3_example' returned '0': AMENT_PREFIX_PATH=/home/balint/ros2_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/balint/ros2_ws/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/balint/ros2_ws/install/turtlebot3_msgs/lib:/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib:/usr/lib/cuda/include:/usr/lib/cuda/lib64 PYTHONPATH=/home/balint/ros2_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/balint/ros2_ws/install/turtlebot3_example/lib/python3.12/site-packages:/home/balint/ros2_ws/install/turtlebot3_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_example build --build-base /home/balint/ros2_ws/build/turtlebot3_example/build install --record /home/balint/ros2_ws/build/turtlebot3_example/install.log --single-version-externally-managed install_data
